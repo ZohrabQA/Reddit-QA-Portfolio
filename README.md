@@ -24,7 +24,7 @@ This repository demonstrates a comprehensive Quality Assurance approach applied 
 ## ⚙️ How to Run
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run UI tests: `pytest tests/`
-3. Run Performance tests: `locust -f performance/locust_test.py`
+3. Run Performance tests: `locust -f performance/my_locust_test.py
 
 ---
 **Author:** [Adın Soyadın]
